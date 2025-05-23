@@ -131,7 +131,7 @@ h4{
 
 @media (max-width: 768px) {
 
-    body{
+    .connect form{
         width: 100%;
     }
 
